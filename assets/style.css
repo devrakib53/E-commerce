@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.color{
+	background: #FF9D90;
+}
+
+.abcd{
+	color: black;
+}
+
+.butt{
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+.hdbg{
+	background:#D4FAF2 ;
+}
+
+.img1{
+	width: 100%;
+	height: 50%;
+	
+}
